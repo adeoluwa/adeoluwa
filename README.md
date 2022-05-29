@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Adeoluwa Joseph
+### Hi there 👋  I'm Adeoluwa Joseph
 
 Frontend Developer
 
@@ -8,7 +8,4 @@ I’m tech enthusiast with an aquired working knowledge of HTML, CSS, Javascript
 - 👯 I’m looking to collaborate on challenging and exciting Frontend Projects
 - 📫 How to reach me: ...adeoluwajoseph10@gmail.com
 
-
-Skills include : 
-Javascript, HTML, CSS, SCSS, React js
 
