@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adeolu Joseph
 =====================================================================================================================================
- Web Developer
+ Software Engineer 
 ----------------------
 
 I’m a tech enthusiast with an acquired working knowledge of HTML, CSS, Javascript, and React js to build fully functional, responsive, and beautiful web apps and web pages.
