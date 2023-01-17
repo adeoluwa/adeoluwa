@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Software Engineer 
 ----------------------
 
-I’m a tech enthusiast with an acquired working knowledge of HTML, CSS, Javascript, and React js to build fully functional, responsive, and beautiful web apps and web pages.
-
+I love everything tech 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://deolu-joseph.netlify.app/)
 *   ✉️  You can contact me at [adeoluwajoseph10@gmail.com](mailto:adeoluwajoseph10@gmail.com)
