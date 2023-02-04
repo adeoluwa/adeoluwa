@@ -7,7 +7,7 @@ I love everything tech
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://deolu-joseph.netlify.app/)
 *   ✉️  You can contact me at [adeoluwajoseph10@gmail.com](mailto:adeoluwajoseph10@gmail.com)
-*   🧠  I'm learning Node JS
+*   🧠  Always learning 
 *   🤝  I'm open to collaborating on interesting Node JS and Django JS Projects
 *   ⚡  Otaku
      Skills
@@ -23,6 +23,6 @@ I love everything tech
                                 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored-dark.svg" width="36" height="36" alt="Node" /></a>
+ 
                     </p>
                 
