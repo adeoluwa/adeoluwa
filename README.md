@@ -6,9 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I love everything tech 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://deolu-joseph.netlify.app/)
-*   ✉️  You can contact me at [adeoluwajoseph10@gmail.com](mailto:adeoluwajoseph10@gmail.com)
-*   🧠  Always learning 
-*   🤝  I'm open to collaborating on interesting Node JS and Django JS Projects
+*   ✉️  You can contact me at [kiishijoseph@gmail.com](mailto:kishijoseph@gmail.com)
+*   🤝  I'm open to collaborating on interesting Projects
 *   ⚡  Otaku
      
      <p align="left">
