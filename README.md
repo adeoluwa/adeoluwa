@@ -7,7 +7,7 @@ I love everything tech
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [kiishijoseph@gmail.com](mailto:kishijoseph@gmail.com)
 *   🤝  I'm open to collaborating on interesting Projects
-*   ⚡  Otaku
+*   ⚡  I love anime and you might as well just recommend good ones since you are here.
      
  
                     
