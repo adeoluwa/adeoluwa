@@ -1,14 +1,7 @@
-<h1 align="center">
-  Hi, I'm Joseph Adeoluwa
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32px" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adeolu%20Joseph&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <b>Software Engineer</b> · Lagos, Nigeria 🇳🇬
-</p>
-
-<p align="center">
-  I love everything tech — and I'll happily take an anime recommendation while I'm here.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;I+love+everything+tech;Recommend+me+a+good+anime+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,13 +9,19 @@
 ### A little about me
 
 - 🌍  Based in Lagos, Nigeria
+- 🛠️  I like building things that are useful, fast, and a little bit clever
+- 📚  I write about what I learn — bugs, ideas, and lessons along the way
 - 🤝  Open to collaborating on interesting projects
+- 🌱  Always learning, never boxing myself into one thing
 - ⚡  Big on anime — drop me a good one
-- ✉️  Reach me at [kiishijoseph@gmail.com](mailto:kiishijoseph@gmail.com)
+
+### Where to find me
+
+- ✍️  **Blog:** [kiishijoseph.netlify.app](https://kiishijoseph.netlify.app/)
+- ✉️  **Email:** [kiishijoseph@gmail.com](mailto:kiishijoseph@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="150" />
+  <i>Building, breaking, and writing about it all. ✨</i>
 </p>
