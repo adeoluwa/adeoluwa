@@ -9,7 +9,6 @@
 ### A little about me
 
 - 🌍  Based in Lagos, Nigeria
-- 🛠️  I like building things that are useful, fast, and a little bit clever
 - 📚  I write about what I learn, bugs, ideas, and lessons along the way
 - 🤝  Open to collaborating on interesting projects
 - 🌱  Always learning, never boxing myself into one thing
